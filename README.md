@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center"></h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me retrouver:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/m%c3%a9lissa-lesne-a334a5227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m%c3%a9lissa-lesne-a334a5227/" height="30" width="40" /></a>
 </p>
